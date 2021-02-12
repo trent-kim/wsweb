@@ -1,0 +1,31 @@
+body {
+    font-family: "times-new-roman";
+    margin: 5vw;
+}
+
+h1:hover {
+    color: orange;
+}
+
+h2 {
+    margin-bottom: 15vh;
+}
+
+p {
+    font-size: x-large;
+    margin-bottom: 3vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: line-through;
+    font-style: italic;
+}
+
+a:visited {
+    color: black;
+}
+
